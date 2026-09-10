@@ -1,0 +1,1 @@
+(() => { const originalFetch = window.fetch.bind(window); window.fetch = (input, init) => { const url = typeof input === 'string' ? input : input.url; if (url.includes('/products.json')) return Promise.resolve(new Response(JSON.stringify(window.RG_CATALOG_PRODUCTS), { status: 200, headers: { 'Content-Type': 'application/json' } })); return originalFetch(input, init); }; })();
