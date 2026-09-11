@@ -10,7 +10,7 @@
   {
     "code": "Peça 002",
     "image": "images/peca_002.jpg",
-    "price": "",
+    "price": "21,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -19,7 +19,7 @@
   {
     "code": "Peça 003",
     "image": "images/peca_003.jpg",
-    "price": "",
+    "price": "R$ 34,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -28,7 +28,7 @@
   {
     "code": "Peça 004",
     "image": "images/peca_004.jpg",
-    "price": "",
+    "price": "R$ 24,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -37,7 +37,7 @@
   {
     "code": "Peça 005",
     "image": "images/peca_005.jpg",
-    "price": "",
+    "price": "R$ 34,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -46,7 +46,7 @@
   {
     "code": "Peça 006",
     "image": "images/peca_006.jpg",
-    "price": "",
+    "price": "R$ 49,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -56,7 +56,7 @@
   {
     "code": "Peça 007",
     "image": "images/peca_007.jpg",
-    "price": "",
+    "price": "R$ 35,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -66,7 +66,7 @@
   {
     "code": "Peça 008",
     "image": "images/peca_008.jpg",
-    "price": "",
+    "price": "R$ 22,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -76,7 +76,7 @@
   {
     "code": "Peça 009",
     "image": "images/peca_009.jpg",
-    "price": "",
+    "price": "R$ 29,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -86,7 +86,7 @@
   {
     "code": "Peça 010",
     "image": "images/peca_010.jpg",
-    "price": "",
+    "price": "R$ 24,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -96,7 +96,7 @@
   {
     "code": "Peça 011",
     "image": "images/peca_011.jpg",
-    "price": "",
+    "price": "R$ 24,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -106,7 +106,7 @@
   {
     "code": "Peça 012",
     "image": "images/peca_012.jpg",
-    "price": "",
+    "price": "R$ 10,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -116,7 +116,7 @@
   {
     "code": "Peça 013",
     "image": "images/peca_013.jpg",
-    "price": "",
+    "price": "R$ 35,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -126,7 +126,7 @@
   {
     "code": "Peça 014",
     "image": "images/peca_014.jpg",
-    "price": "",
+    "price": "R$ 31,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -136,7 +136,7 @@
   {
     "code": "Peça 015",
     "image": "images/peca_015.jpg",
-    "price": "",
+    "price": "R$ 34,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -146,7 +146,7 @@
   {
     "code": "Peça 016",
     "image": "images/peca_016.jpg",
-    "price": "",
+    "price": "R$ 24,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -156,7 +156,7 @@
   {
     "code": "Peça 017",
     "image": "images/peca_017.jpg",
-    "price": "",
+    "price": "R$ 29,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -166,7 +166,7 @@
   {
     "code": "Peça 018",
     "image": "images/peca_018.jpg",
-    "price": "",
+    "price": "R$ 39,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -176,7 +176,7 @@
   {
     "code": "Peça 019",
     "image": "images/peca_019.jpg",
-    "price": "",
+    "price": "R$ 22,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -186,7 +186,7 @@
   {
     "code": "Peça 020",
     "image": "images/peca_020.jpg",
-    "price": "",
+    "price": "R$ 29,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -196,7 +196,7 @@
   {
     "code": "Peça 021",
     "image": "images/peca_021.jpg",
-    "price": "",
+    "price": "R$ 10,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -206,7 +206,7 @@
   {
     "code": "Peça 022",
     "image": "images/peca_022.jpg",
-    "price": "",
+    "price": "R$ 11,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -216,7 +216,7 @@
   {
     "code": "Peça 023",
     "image": "images/peca_023.jpg",
-    "price": "",
+    "price": "R$ 24,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -226,7 +226,7 @@
   {
     "code": "Peça 024",
     "image": "images/peca_024.jpg",
-    "price": "",
+    "price": "R$ 44,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -236,7 +236,7 @@
   {
     "code": "Peça 025",
     "image": "images/peca_025.jpg",
-    "price": "",
+    "price": "R$ 22,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -246,7 +246,7 @@
   {
     "code": "Peça 026",
     "image": "images/peca_026.jpg",
-    "price": "",
+    "price": "R$ 24,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -256,7 +256,7 @@
   {
     "code": "Peça 027",
     "image": "images/peca_027.jpg",
-    "price": "",
+    "price": "R$ 10,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -266,7 +266,7 @@
   {
     "code": "Peça 028",
     "image": "images/peca_028.jpg",
-    "price": "",
+    "price": "R$ 29,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -276,7 +276,7 @@
   {
     "code": "Peça 029",
     "image": "images/peca_029.jpg",
-    "price": "",
+    "price": "R$ 22,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -286,7 +286,7 @@
   {
     "code": "Peça 030",
     "image": "images/peca_030.jpg",
-    "price": "",
+    "price": "R$ 10,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -296,7 +296,7 @@
   {
     "code": "Peça 031",
     "image": "images/peca_031.jpg",
-    "price": "",
+    "price": "R$ 29,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -306,7 +306,7 @@
   {
     "code": "Peça 032",
     "image": "images/peca_032.jpg",
-    "price": "",
+    "price": "R$ 22,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -316,7 +316,7 @@
   {
     "code": "Peça 033",
     "image": "images/peca_033.jpg",
-    "price": "",
+    "price": "R$ 10,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -326,7 +326,7 @@
   {
     "code": "Peça 034",
     "image": "images/peca_034.jpg",
-    "price": "",
+    "price": "R$ 29,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -336,7 +336,7 @@
   {
     "code": "Peça 035",
     "image": "images/peca_035.jpg",
-    "price": "",
+    "price": "R$ 22,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -346,7 +346,7 @@
   {
     "code": "Peça 036",
     "image": "images/peca_036.jpg",
-    "price": "",
+    "price": "R$ 10,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -356,7 +356,7 @@
   {
     "code": "Peça 037",
     "image": "images/peca_037.jpg",
-    "price": "",
+    "price": "R$ 29,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -366,7 +366,7 @@
   {
     "code": "Peça 038",
     "image": "images/peca_038.jpg",
-    "price": "",
+    "price": "R$ 22,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -376,7 +376,7 @@
   {
     "code": "Peça 039",
     "image": "images/peca_039.jpg",
-    "price": "",
+    "price": "R$ 10,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -386,7 +386,7 @@
   {
     "code": "Peça 040",
     "image": "images/peca_040.jpg",
-    "price": "",
+    "price": "R$ 22,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -396,7 +396,7 @@
   {
     "code": "Peça 041",
     "image": "images/peca_041.jpg",
-    "price": "",
+    "price": "R$ 10,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -406,7 +406,7 @@
   {
     "code": "Peça 042",
     "image": "images/peca_042.jpg",
-    "price": "",
+    "price": "29,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -416,7 +416,7 @@
   {
     "code": "Peça 043",
     "image": "images/peca_043.jpg",
-    "price": "",
+    "price": "R$ 10,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -426,7 +426,7 @@
   {
     "code": "Peça 044",
     "image": "images/peca_044.jpg",
-    "price": "",
+    "price": "29,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -436,7 +436,7 @@
   {
     "code": "Peça 045",
     "image": "images/peca_045.jpg",
-    "price": "",
+    "price": "10,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -446,7 +446,7 @@
   {
     "code": "Peça 046",
     "image": "images/peca_046.jpg",
-    "price": "",
+    "price": "29,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -456,7 +456,7 @@
   {
     "code": "Peça 047",
     "image": "images/peca_047.jpg",
-    "price": "",
+    "price": "R$ 10,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -466,7 +466,7 @@
   {
     "code": "Peça 048",
     "image": "images/peca_048.jpg",
-    "price": "",
+    "price": "R$ 29,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -476,7 +476,7 @@
   {
     "code": "Peça 049",
     "image": "images/peca_049.jpg",
-    "price": "",
+    "price": "R$ 10,90",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -486,7 +486,7 @@
   {
     "code": "Peça 050",
     "image": "images/peca_050.jpg",
-    "price": "",
+    "price": "R$ 29,99",
     "material": "",
     "category": "",
     "status": "Disponível",
@@ -496,7 +496,7 @@
   {
     "code": "Peça 051",
     "image": "images/peca_051.jpg",
-    "price": "",
+    "price": "R$ 29,99",
     "material": "",
     "category": "",
     "status": "Disponível",
