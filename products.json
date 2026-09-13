@@ -5,7 +5,7 @@
     "price": "R$ 21,90",
     "material": "FOLHEADO",
     "category": "Brincos",
-    "status": "Disponível"
+    "status": "Vendido"
   },
   {
     "code": "Peça 002",
@@ -13,7 +13,7 @@
     "price": "R$ 21,90",
     "material": "",
     "category": "",
-    "status": "Disponível",
+    "status": "Vendido",
     "sourceFileId": "1i_GLl0Tesh5au9pKF2NZ-TOw5Vikdrgw"
   },
   {
@@ -99,7 +99,7 @@
     "price": "R$ 24,90",
     "material": "",
     "category": "",
-    "status": "Disponível",
+    "status": "Vendido",
     "sourceFileId": "1L--hE3IjEJU973mTxvFf2ZAfFwJnBboj",
     "contentHash": "8e27a7c2e9acb4ed84b38d10e24713602bcef5b117b423a9f9dd0fa1b8cf8aa4"
   },
@@ -139,7 +139,7 @@
     "price": "R$ 34,99",
     "material": "",
     "category": "",
-    "status": "Disponível",
+    "status": "Vendido",
     "sourceFileId": "1oQN4AMIza3Lt7TaYXzt33iyGpe10d_4C",
     "contentHash": "0db2f65fc474921c0c125e45aead7fc99838ec388b4d53047303156d0f0c48d5"
   },
@@ -419,7 +419,7 @@
     "price": "R$ 10,90",
     "material": "",
     "category": "",
-    "status": "Disponível",
+    "status": "Vendido",
     "sourceFileId": "1gTT3lbmPgsh2mQeqSv62A_ruusoxR5T5",
     "contentHash": "94bf7ee4c741d0a4013f0f38263e1bb999e782a55b0157c2b9c663be6f9b692c"
   },
@@ -429,7 +429,7 @@
     "price": "R$ 29,99",
     "material": "",
     "category": "",
-    "status": "Disponível",
+    "status": "Vendido",
     "sourceFileId": "1z2LR3__6y36t99Lsh7c1olwFfJPL3Hfu",
     "contentHash": "613bee83c5f23fb54f5275d1d3eb7b9918bfbc620df3473bf6b8b3812420f5d8"
   },
@@ -459,7 +459,7 @@
     "price": "R$ 10,90",
     "material": "",
     "category": "",
-    "status": "Disponível",
+    "status": "Vendido",
     "sourceFileId": "1HQb-ewWUm3hnzGx68bUxflKwg8hO2vpM",
     "contentHash": "d47ba74345af67a3977452e3253479deded099637c6810af6190cad21bb7087a"
   },
